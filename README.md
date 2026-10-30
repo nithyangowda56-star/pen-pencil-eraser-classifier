@@ -22,3 +22,4 @@ Pen / Pencil / Eraser image classification using MobileNetV2 in Google Colab (Te
 - Trained model (.keras)
 - labels.txt (class order: eraser, pen, pencil)
 - requirements.txt
+-    - dataset_small.zip (240 images from internet searches, 80 per class, resized to 224 px)
